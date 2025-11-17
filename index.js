@@ -42,7 +42,7 @@ async function main() {
 
   console.log("Connected to MongoDB");
 
-  let page = 131100;
+  let page = 170700;
   let total = 0;
   let keepGoing = true;
 
